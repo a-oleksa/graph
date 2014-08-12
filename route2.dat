@@ -1,0 +1,14 @@
+CityA CityI
+CityA CityB 10
+CityB CityC 10
+CityB CityD 10
+CityB CityE 10
+CityC CityF 10
+CityC CityG 10
+CityC CityH 10
+CityD CityF 10
+CityD CityG 10
+CityD CityH 10
+CityF CityI 10
+CityG CityI 10
+CityH CityI 10

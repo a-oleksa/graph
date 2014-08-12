@@ -1,0 +1,11 @@
+Graph - Graph ADT implemented to calculate the shortest path between two paths and print both the path and the distance.
+The input file should begin with the start point and destination on the first line.  After the lines should use the following format:
+'startCity' 'endCity' distance<integer>
+
+build
+javac *.java
+
+run
+java Driver < file
+
+*3 example input files have been included.
